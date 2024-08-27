@@ -17,6 +17,7 @@ public class LEAPYEAR {
 	            if (year % 100 == 0) {
 	                // Checking if year is divisible by 400
 	                // therefore century leap year
+	            	//1422545
 	                if (year % 400 == 0)
 	                    is_leap_year = true;
 	                else
